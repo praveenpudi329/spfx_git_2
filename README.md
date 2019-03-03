@@ -1,4 +1,4 @@
-## spfx-git
+## spfx-git ###
 
 This is where you include your WebPart documentation.
 
